@@ -14,4 +14,4 @@ Aspiring Cybersecurity Analyst passionate about security policies, risk manageme
 - Compliance
 
 More projects and labs coming soon
-Contact: your-mamordey@gmail.com | LinkedIn: linkedin.com/in/yourname
+Contact: your-mamordey@gmail.com 
